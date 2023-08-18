@@ -1,0 +1,1 @@
+# NejiKazuma.github.io
