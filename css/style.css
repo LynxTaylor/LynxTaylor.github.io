@@ -1,0 +1,22 @@
+body {
+		background-color: lightblue;
+	}
+	h1 {
+		text-align: center;
+	}
+	div {
+		display: flex;
+	}
+	img {
+			margin: auto;
+			width: 50%;
+	}
+	p {
+		text-align: center;
+	}
+	ul {
+		text-align: center;
+	}
+	form {
+		text-align: center;
+	}
