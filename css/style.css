@@ -7,9 +7,12 @@ body {
 	div {
 		display: flex;
 	}
+	div {
+		background-size: cover;
+	}
 	img {
 			margin: auto;
-			width: 50%;
+			width: 40%;
 	}
 	p {
 		text-align: center;
@@ -25,6 +28,6 @@ body {
 		font-size: 20px;
 	}
 	li {
-/*xóa dấu chấm*/
+/*	xóa dấu chấm	*/
 		list-style: none;
 	}
